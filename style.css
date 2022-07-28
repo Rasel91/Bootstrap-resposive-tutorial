@@ -1,8 +1,12 @@
 
 .carousel-caption {
 
-    padding-bottom: 13.25rem;
+    padding-bottom: 10.25rem;
     
+}
+.cr-img>img{
+    background-color: black;
+
 }
 
 .card{
