@@ -8,3 +8,7 @@
 .card{
     border: none;
 }
+img{
+    
+    inline-size: 100%;
+}
