@@ -1,18 +1,31 @@
-
 .carousel-caption {
 
     padding-bottom: 10.25rem;
-    
+
 }
-.cr-img>img{
+
+.cr-img>img {
     background-color: black;
 
 }
 
-.card{
+.card {
     border: none;
 }
-img{
-    
+
+img {
+
     inline-size: 100%;
+}
+
+/* .fa-brands.filled {
+    height: 80px;
+    width: 80px;
+    color: aliceblue;
+} */
+
+.icon-width>div>a>i {
+    height: 50px;
+    width: 50px;
+    color: aliceblue;
 }
